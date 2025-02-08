@@ -6,7 +6,7 @@ import imghdr  # Keeping imghdr as requested
 
 # Replace 'YOUR_API_TOKEN' with your actual Telegram Bot API token
 API_TOKEN = '7950232025:AAGSyC_IJnyHsI7A1MyKgGZZRJntQ6RNP7Y'
-
+print("hello world")
 # Menu options
 MENU_KEYBOARD = [
     ['📚 Help', '🌐 About'],
